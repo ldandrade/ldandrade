@@ -12,7 +12,9 @@ I am an Information Technology Architect passionate about development, research 
 Below are some of the skills I'm currently focused on learning and improving and some of the things I do during leisure time.
 
 <a href = "mailto:lucasdeandradesantos@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucasdeandradesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/lucasdeandradesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://stackoverflow.com/story/lucasdeandradesantos" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-100000?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a> 
+<!--a href="https://www.smartr.me/public/profiles/lucas.deandradesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=smartr&logoColor=white" target="_blank"></a--> 
 
  <div>
   <a href="https://github.com/ldandrade">
@@ -20,26 +22,47 @@ Below are some of the skills I'm currently focused on learning and improving and
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldandrade&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### Education
+### Education 🎓
 
   I’m currently working on Doctorate (DSc - Doctor in Science) thesis related to Explainable AI, One/Few-Shot Learning and Computer Vision.
   
 ### Skills 🚀
+
+#### Certified 🏅
 <div style="display: inline_block"><br>
-  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/Microsoft_Azure-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white">
 </div>
-  
+ 
+#### Improving 📚
+<div style="display: inline_block"><br>
+ <img align="center" src="https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/VS_Code-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/Overleaf-green?style=for-the-badge&logo=overleaf&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</div>
+ 
+#### Learning 📖
+<div style="display: inline_block"><br>
+ <img align="center" src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/Xamarin-blueviolet?style=for-the-badge&logo=xamarin&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+</div>
+ 
+#### Past 👴
+<div style="display: inline_block"><br>
+ <img align="center" src="https://img.shields.io/badge/C%2B%2B-inactive?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</div>
+
 ### Hobbies 🎮🎧🎥
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
 </div>
+ <br>
+ 
+<!--<a href="https://stackexchange.com/users/18134669"><img src="https://stackexchange.com/users/flair/18134669.png" width="208" height="58" alt="profile for Lucas de Andrade Santos on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Lucas de Andrade Santos on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>-->
