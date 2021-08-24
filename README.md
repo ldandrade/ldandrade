@@ -13,8 +13,11 @@ Below are some of the skills I'm currently focused on learning and improving and
 
 <a href = "mailto:lucasdeandradesantos@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucasdeandradesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://stackoverflow.com/story/lucasdeandradesantos" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-100000?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a> 
-<a href="https://orcid.org/0000-0003-3025-4143" target="_blank"><img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a> 
+<a href="https://stackoverflow.com/story/lucasdeandradesantos" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-100000?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
+<a href="https://docs.microsoft.com/pt-br/users/ldandrade/" target="_blank"> <img src="https://img.shields.io/badge/Microsoft-blue?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
+<a href="https://www.codecademy.com/profiles/ldandrade" target="_blank"> <img src="https://img.shields.io/badge/Codecademy-100000?style=for-the-badge&logo=codecademy&logoColor=white" target="_blank"></a>
+<a href="https://www.datacamp.com/profile/ldandrade" target="_blank"> <img src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03EF62" target="_blank"></a>
+<a href="https://orcid.org/0000-0003-3025-4143" target="_blank"><img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
 <!--a href="https://www.smartr.me/public/profiles/lucas.deandradesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=smartr&logoColor=white" target="_blank"></a--> 
 
  <div>
@@ -38,9 +41,9 @@ I graduated in Computer Science from the <a href="https://www.uff.br/">Federal F
 ### Skills 🚀
 
 #### Certified 🏅
-- <img align="center" src="https://img.shields.io/badge/Microsoft_Azure-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white"> by <img align="center" src="https://img.shields.io/badge/Microsoft-blue?style=for-the-badge&logo=microsoft&logoColor=white">
-- <img align="center" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"> by <img align="center" src="https://img.shields.io/badge/Codecademy-100000?style=for-the-badge&logo=codecademy&logoColor=white">
- 
+- <img align="center" src="https://img.shields.io/badge/Microsoft_Azure-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white"> by <a href="https://docs.microsoft.com/pt-br/users/ldandrade/"> <img align="center" src="https://img.shields.io/badge/Microsoft-blue?style=for-the-badge&logo=microsoft&logoColor=white"></a>
+- <img align="center" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"> by <a href="https://www.codecademy.com/profiles/ldandrade"> <img align="center" src="https://img.shields.io/badge/Codecademy-100000?style=for-the-badge&logo=codecademy&logoColor=white"></a> and <a href="https://www.datacamp.com/profile/ldandrade"> <img align="center" src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03EF62"></a>
+
 #### Improving 📚
 <div style="display: inline_block"><br>
  <img align="center" src="https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white">
