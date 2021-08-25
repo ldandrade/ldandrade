@@ -13,7 +13,7 @@ Below are some of the skills I'm currently focused on learning and improving and
 
 <a href = "mailto:lucasdeandradesantos@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucasdeandradesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://stackoverflow.com/story/lucasdeandradesantos" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-100000?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
+<a href="https://stackoverflow.com/story/ldandrade" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-100000?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
 <a href="https://docs.microsoft.com/pt-br/users/ldandrade/" target="_blank"> <img src="https://img.shields.io/badge/Microsoft-blue?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 <a href="https://www.codecademy.com/profiles/ldandrade" target="_blank"> <img src="https://img.shields.io/badge/Codecademy-100000?style=for-the-badge&logo=codecademy&logoColor=white" target="_blank"></a>
 <a href="https://www.datacamp.com/profile/ldandrade" target="_blank"> <img src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03EF62" target="_blank"></a>
