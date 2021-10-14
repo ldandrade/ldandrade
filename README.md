@@ -24,6 +24,7 @@ Below are some of the skills I'm currently focused on learning and improving and
 <a href="https://www.datacamp.com/profile/ldandrade" target="_blank"> <img src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03EF62" target="_blank"></a>
 <a href="https://leetcode.com/ldandrade/" target="_blank"><img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank"></a>
 <a href="https://www.kaggle.com/ldandrade" target="_blank"><img src="https://img.shields.io/badge/kaggle-FFFFFF?style=for-the-badge&logo=kaggle&logoColor=blue" target="_blank"></a>
+<a href="https://app.pluralsight.com/profile/ldandrade" target="_blank"><img src="https://img.shields.io/badge/pluralsight-000000?style=for-the-badge&logo=pluralsight&logoColor=rose" target="_blank"></a>
 <a href="https://orcid.org/0000-0003-3025-4143" target="_blank"><img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
 <!--a href="https://www.smartr.me/public/profiles/lucas.deandradesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=smartr&logoColor=white" target="_blank"></a--> 
 
