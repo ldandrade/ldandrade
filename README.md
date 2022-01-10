@@ -23,6 +23,7 @@ Below are some of the skills I'm currently focused on learning and improving and
 <a href="https://www.codecademy.com/profiles/ldandrade" target="_blank"> <img src="https://img.shields.io/badge/Codecademy-100000?style=for-the-badge&logo=codecademy&logoColor=white" target="_blank"></a>
 <a href="https://www.datacamp.com/profile/ldandrade" target="_blank"> <img src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03EF62" target="_blank"></a>
 <a href="https://leetcode.com/ldandrade/" target="_blank"><img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank"></a>
+<a href="https://app.codesignal.com/profile/ldandrade" target="_blank"><img src="https://img.shields.io/badge/codesignal-blue?style=for-the-badge&logo=codesignal&logoColor=white" target="_blank"></a>
 <a href="https://www.kaggle.com/ldandrade" target="_blank"><img src="https://img.shields.io/badge/kaggle-FFFFFF?style=for-the-badge&logo=kaggle&logoColor=blue" target="_blank"></a>
 <a href="https://app.pluralsight.com/profile/ldandrade" target="_blank"><img src="https://img.shields.io/badge/pluralsight-000000?style=for-the-badge&logo=pluralsight&logoColor=rose" target="_blank"></a>
 <a href="https://learn.acloud.guru/profile/ldandrade" target="_blank"><img src="https://img.shields.io/badge/acloudguru-blue?style=for-the-badge&logo=acloudguru&logoColor=orange" target="_blank"></a>
