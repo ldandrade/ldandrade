@@ -29,3 +29,14 @@ https://badgen.net/badge/:subject/:status/:color?icon=github
 </div>
  
 <!--<a href="https://stackexchange.com/users/18134669"><img src="https://stackexchange.com/users/flair/18134669.png" width="208" height="58" alt="profile for Lucas de Andrade Santos on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Lucas de Andrade Santos on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>-->
+
+Featured Projects
+1. ADENA - Proof Assistant for Natural Deduction
+Tech Stack: Python, Logic Programming
+Description: A tool designed to validate and assist in natural deduction proofs, aiding students and researchers in formal logic studies.
+2. gcol-alg-selection - Algorithm Selection for Graph Coloring Problems
+Tech Stack: Python, Machine Learning
+Description: A research project exploring algorithm selection models for graph coloring, using AI to optimize computational performance.
+3. Irrigatus - IoT Irrigation Control
+Tech Stack: Flutter, Node.js, Arduino
+Description: A cross-platform app that integrates IoT devices for precise irrigation scheduling, promoting sustainable agriculture.
