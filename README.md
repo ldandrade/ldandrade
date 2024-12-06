@@ -6,28 +6,11 @@ https://badgen.net/badge/:subject/:status/:color?icon=github
 
 ### Profiles
 
-#### Social Networks
-<a href="https://www.linkedin.com/in/lucasdeandradesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+| Social Networks | Academy | Hyperscalers | Development | AI and ML | Open Source |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|<a href="https://www.linkedin.com/in/lucasdeandradesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://orcid.org/0000-0003-3025-4143" target="_blank"><img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a> | <a href="https://docs.microsoft.com/en-us/users/ldandrade/" target="_blank"> <img src="https://img.shields.io/badge/Microsoft-blue?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a> | <a href="https://www.codecademy.com/profiles/ldandrade" target="_blank"> <img src="https://img.shields.io/badge/Codecademy-100000?style=for-the-badge&logo=codecademy&logoColor=white" target="_blank"></a> <a href="https://leetcode.com/ldandrade/" target="_blank"><img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank"></a> <a href="https://app.pluralsight.com/profile/ldandrade" target="_blank"><img src="https://img.shields.io/badge/pluralsight-000000?style=for-the-badge&logo=pluralsight&logoColor=rose" target="_blank"></a> | <a href="https://www.kaggle.com/ldandrade" target="_blank"><img src="https://img.shields.io/badge/kaggle-FFFFFF?style=for-the-badge&logo=kaggle&logoColor=blue" target="_blank"></a> | <a href="https://openprofile.dev/profile/lucasdeandradesantos" target="_blank"><img src="https://img.shields.io/badge/LFX-blue?style=for-the-badge&logo=lfx&logoColor=white" target="_blank"></a> |
 
-#### Academy
-<a href="https://orcid.org/0000-0003-3025-4143" target="_blank"><img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
-
-#### Hyperscalers
-<a href="https://docs.microsoft.com/en-us/users/ldandrade/" target="_blank"> <img src="https://img.shields.io/badge/Microsoft-blue?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
-
-#### Development
-<a href="https://www.codecademy.com/profiles/ldandrade" target="_blank"> <img src="https://img.shields.io/badge/Codecademy-100000?style=for-the-badge&logo=codecademy&logoColor=white" target="_blank"></a>
-<a href="https://leetcode.com/ldandrade/" target="_blank"><img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank"></a>
-<a href="https://app.pluralsight.com/profile/ldandrade" target="_blank"><img src="https://img.shields.io/badge/pluralsight-000000?style=for-the-badge&logo=pluralsight&logoColor=rose" target="_blank"></a>
 <!--<a href="https://app.codesignal.com/profile/ldandrade" target="_blank"><img src="https://img.shields.io/badge/codesignal-blue?style=for-the-badge&logo=codesignal&logoColor=white" target="_blank"></a> -->
-
-AI and ML
-<a href="https://www.kaggle.com/ldandrade" target="_blank"><img src="https://img.shields.io/badge/kaggle-FFFFFF?style=for-the-badge&logo=kaggle&logoColor=blue" target="_blank"></a>
-
-Open Source
-<a href="https://openprofile.dev/profile/lucasdeandradesantos" target="_blank"><img src="https://img.shields.io/badge/LFX-blue?style=for-the-badge&logo=lfx&logoColor=white" target="_blank"></a>
-
-<!--a href="https://www.smartr.me/public/profiles/lucas.deandradesantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=smartr&logoColor=white" target="_blank"></a--> 
 
  <div>
   <a href="https://github.com/ldandrade">
